@@ -28,7 +28,7 @@ Departure          | Departure station id| Departure station name| Duration(s)
 
 Lens can also work with datetime format that conform to Rust NaiveDateTime type. 
 ```
-$ ./dynalens bike_data.csv --where "Departure>2020-06-30T23:56:00"
+$ ./dynalens bike_data.csv --filter "Departure>2020-06-30T23:56:00"
 
 Departure          | Departure station id| Departure station name| Duration(s)
 -------------------|---------------------|-----------------------|------------
