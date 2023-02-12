@@ -1,0 +1,12 @@
+Departure,Return,Departure station id,Departure station name,Return station id,Return station name,Covered distance (m),Duration
+2020-06-30T23:59:20,2020-07-01T00:14:12,034,Kansallismuseo,088,Kiskontie,3330,887
+2020-06-30T23:58:21,2020-07-01T00:06:22,519,Tapionaukio,547,Jämeräntaival,2358,478
+2020-06-30T23:58:03,2020-07-01T00:05:17,036,Apollonkatu,078,Messeniuksenkatu,1376,430
+2020-06-30T23:57:51,2020-07-01T00:06:27,053,Heikkiläntie,030,Itämerentori,1948,416
+2020-06-30T23:57:37,2020-07-01T00:04:17,012,Kanavaranta,123,Näkinsilta,1537,396
+2020-06-30T23:57:15,2020-07-01T00:15:11,040,Hakaniemi (M),016,Liisanpuistikko,1674,1073
+2020-06-30T23:57:11,2020-07-01T00:04:46,036,Apollonkatu,078,Messeniuksenkatu,1368,451
+2020-06-30T23:57:08,2020-07-01T00:03:56,046,Diakoniapuisto,113,Pasilan asema,1823,403
+2020-06-30T23:56:57,2020-07-01T00:00:06,276,Puotinharju,275,Itäkeskus (M),488,185
+2020-06-30T23:56:25,2020-07-01T00:03:06,621,Hauenkalliontie,585,Haukilahdenaukio,1650,402
+2020-06-30T23:55:31,2020-07-01T00:06:03,005,Sepänkatu,015,Ritarikatu,2564,631
