@@ -26,7 +26,7 @@ struct Cli {
     /// Csv file
     file_name: Option<PathBuf>,
 
-    /// where clause
+    /// filter clause
     #[clap(short='f', long="filter", value_name = "filter")]
     filter: Option<String>,
    
@@ -51,15 +51,6 @@ struct Cli {
 
 fn main() {
     
-    // TODO: Remove  input  folder
-    // TODO: Add  some docs to README.md
-
-    //if let Some((w, h)) = term_size::dimensions() {
-    //    println!("Terminal width: {}, height: {}", w, h);
-    //  } else {
-    //    println!("Unable to get term size :(")
-    //}
-
     let cli = Cli::parse();
 
     let file_name = match cli.file_name.as_deref(){
