@@ -3,12 +3,12 @@ use std::path::{PathBuf};
 use clap::Parser;
 use chrono::NaiveDateTime;
 
-mod parser; //::filter_parser;
-mod stats; //::StatsReader;
-mod csvtools; //::CsvParameters;
-mod unique; // ::UniqueReader;
-mod filter; // ::FilterReader;
-mod utils; // ::print_columns;
+mod parser; 
+mod stats; 
+mod csvtools;
+mod unique; 
+mod filter; 
+mod utils;
 mod tasks;
 mod comparison;
 
